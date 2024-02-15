@@ -17,7 +17,7 @@ type FlagProvider struct {
 
 var (
     SDK_ID = "SDK_ID_GO_PROVIDER"
-    SDK_VERSION = "0.1.7" // x-release-please-version
+    SDK_VERSION = "0.1.8" // x-release-please-version
 )
 
 func NewFlagProvider(config APIConfig) (*FlagProvider, error) {

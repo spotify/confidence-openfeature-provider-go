@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.8](https://github.com/spotify/confidence-openfeature-provider-go/compare/v0.1.7...v0.1.8) (2024-02-15)
+
+
+### 🐛 Bug Fixes
+
+* targeting key serialization fix ([#46](https://github.com/spotify/confidence-openfeature-provider-go/issues/46)) ([859dd88](https://github.com/spotify/confidence-openfeature-provider-go/commit/859dd884dbbb05277d92b9f952a8209d77585c72))
+
 ## [0.1.7](https://github.com/spotify/confidence-openfeature-provider-go/compare/v0.1.6...v0.1.7) (2024-02-12)
 
 
